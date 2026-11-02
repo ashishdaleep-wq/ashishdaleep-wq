@@ -11,7 +11,7 @@
 
 ### Hi, I'm Ashish 👋
 
-I'm a 19-year-old BS Computer Science student (4th semester) at Newport Institute of Communications and Economics (NICE), Karachi, building toward a career in AI engineering. I build LLM applications in Python and I plan and deliver them with formal project management training (Google Project Management + Google AI Essentials certified).
+I'm a 19 year-old BS Computer Science student (4th semester) at Newport Institute of Communications and Economics (NICE), Karachi, building toward a career in AI engineering. I build LLM applications in Python and I plan and deliver them with formal project management training (Google Project Management + Google AI Essentials certified).
 
 - 🔭 **Currently:** working through Google Skills' *Build and Modernize Applications with Generative AI* path
 - 🌱 **Learning:** RAG, AI agents, Cloud Run deployment, ML foundations, SQL and DSA
